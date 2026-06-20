@@ -1,2 +1,3 @@
-# ml-papers
-ml research papers implementation !!
+# Paper2Code
+
+A collection of machine learning paper implementations, experiments, and notes.
